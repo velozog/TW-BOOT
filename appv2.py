@@ -3,53 +3,10 @@ from time import sleep
 from datetime import datetime, timedelta
 from termcolor import colored
 import colorama
-from random import random, choice
+from random import random, randint
 
-LISTA_Y = [
-    698,
-    696,
-    702,
-    703,
-    696,
-    695,
-    701,
-    705,
-    701,
-    696,
-    694,
-    695,
-    699,
-    701,
-    697,
-    702,
-    704,
-    696,
-    696,
-    697,
-]
-LISTA_X = [
-    948,
-    935,
-    946,
-    940,
-    950,
-    941,
-    951,
-    940,
-    938,
-    938,
-    944,
-    950,
-    951,
-    947,
-    943,
-    951,
-    942,
-    938,
-    952,
-    943,
-]
-PAUSA = [1800, 1850, 1500, 1550, 1875, 1900, 1920, 1950, 2000]
+
+
 colorama.init(autoreset=True)
 TEXTO = "TW BOOT"
 CAMINHO_IMAGEM = r"C:\Users\Geziel Velozo\Documents\Sem título.png"
@@ -57,12 +14,11 @@ iniciar = input("Se estiver tudo certo, Digite Enter para iniciar: ")
 print(colored(f"Inicializando {TEXTO}", "cyan"))
 sleep(2)
 
-
-def aldeia1():
+def mandar_tropas():
     while True:
         tempo = random()
-        x = choice(LISTA_X)
-        y = choice(LISTA_Y)
+        x = randint(935, 952)
+        y = randint(694, 705)
         sleep(tempo)
         pg.click(x=x, y=y)
         print(colored("Tropas enviadas com sucesso!!", "green"))
@@ -76,55 +32,44 @@ def aldeia1():
                 )
                 print(
                     colored(
-                        "tropas dessa aladeia insficiente, indo ate a proxima aldeia!"
+                        "tropas dessa aladeia insficiente, indo ate a proxima aldeia!", "yellow"
                     )
                 )
                 return
         except:
             print(colored("quantidade de tropas suficiente!", "green"))
 
-
-def aldeia2():
+def trocar_aldeia():
     pg.click(x=304, y=251)
     sleep(1)
     pg.click(x=304, y=251)
-    while True:
-        tempo = random()
-        x = choice(LISTA_X)
-        y = choice(LISTA_Y)
-        sleep(tempo)
-        pg.click(x=x, y=y)
-        print(colored("Tropas enviadas com sucesso!!", "green"))
-        try:
-            if pg.locateCenterOnScreen(CAMINHO_IMAGEM):
-                print(
-                    colored(
-                        "Tropas Insufuciente, esperando o retorno pra continuar.",
-                        "red",
-                    )
-                )
-                return
-        except:
-            print(colored("quantidade de tropas suficiente!", "green"))
 
+def voltar_aldeia_inicial():
+    pg.click(x=284, y=250)
+    sleep(1)
+    pg.click(x=284, y=250)
+
+def pause_tempo(tempo):
+    sleep(tempo*60)
+    pg.click(x=900, y=630)
+    print(colored("Atualizando a pagina", "green"))
+    pg.press("f5")
+    sleep(5)
+
+def proxima_execucao(tempo):
+    data_hora_atual = datetime.now()
+    data_hora_futura = data_hora_atual + timedelta(minutes=tempo)
+    print(colored(f"Vamos aguardar {tempo} minutos"))
+    print(colored(f"Proxima Execução {data_hora_futura}", "cyan"))
 
 def main():
     while True:
-        data_hora_atual = datetime.now()
-        data_hora_futura = data_hora_atual + timedelta(minutes=choice(PAUSA) / 60)
-        aldeia1()
-        sleep(2)
-        aldeia2()
-        pg.click(x=284, y=250)
-        sleep(1)
-        pg.click(x=284, y=250)
-        print(colored(f"Proxima Execução {data_hora_futura}", "cyan"))
-        sleep(1800)
-        pg.click(x=900, y=630)
-        print(colored("Atualizando a pagina", "green"))
-        pg.press("f5")
-        sleep(5)
-
-
+        tempo = randint(25, 35)
+        mandar_tropas()
+        trocar_aldeia()
+        mandar_tropas()
+        voltar_aldeia_inicial()
+        proxima_execucao(tempo)
+        pause_tempo(tempo)
 if __name__ == "__main__":
     main()

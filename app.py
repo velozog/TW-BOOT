@@ -62,7 +62,7 @@ while True:
     x = choice(lista_x)
     y = choice(lista_y)
     data_hora_atual = datetime.now()
-    data_hora_futura = data_hora_atual + timedelta(minutes=choice(PAUSA) / 60)
+    data_hora_futura = data_hora_atual + timedelta(minutes=30)
     sleep(tempo)
     pg.click(x=x, y=y)
     print(colored("Tropas enviadas com sucesso!!", "green"))
