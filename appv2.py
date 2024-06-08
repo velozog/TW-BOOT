@@ -49,7 +49,7 @@ lista_x = [
     952,
     943,
 ]
-
+PAUSA = [1800, 1850, 1500, 1550, 1875, 1900, 1920, 1950, 2000]
 colorama.init(autoreset=True)
 texto = "TW BOOT"
 caminho_imagem = r"C:\Users\Geziel Velozo\Documents\Sem título.png"
@@ -85,15 +85,14 @@ def aldeia1():
 
 
 def aldeia2():
-    x = choice(lista_x)
-    y = choice(lista_y)
-    pg.PAUSE = 0.5
     pg.click(x=304, y=251)
     sleep(1)
     pg.click(x=304, y=251)
     while True:
-
-        sleep(0.5)
+        tempo = random()
+        x = choice(lista_x)
+        y = choice(lista_y)
+        sleep(tempo)
         pg.click(x=x, y=y)
         print(colored("Tropas enviadas com sucesso!!", "green"))
         try:
@@ -112,7 +111,7 @@ def aldeia2():
 def main():
     while True:
         data_hora_atual = datetime.now()
-        data_hora_futura = data_hora_atual + timedelta(minutes=30)
+        data_hora_futura = data_hora_atual + timedelta(minutes=choice(PAUSA)/60)
         aldeia1()
         sleep(2)
         aldeia2()
