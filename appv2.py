@@ -5,7 +5,7 @@ from termcolor import colored
 import colorama
 from random import random, choice
 
-lista_y = [
+LISTA_Y = [
     698,
     696,
     702,
@@ -27,7 +27,7 @@ lista_y = [
     696,
     697,
 ]
-lista_x = [
+LISTA_X = [
     948,
     935,
     946,
@@ -51,23 +51,23 @@ lista_x = [
 ]
 
 colorama.init(autoreset=True)
-texto = "TW BOOT"
-caminho_imagem = r"C:\Users\Geziel Velozo\Documents\Sem título.png"
+TEXTO = "TW BOOT"
+CAMINHO_IMAGEM = r"C:\Users\Geziel Velozo\Documents\Sem título.png"
 iniciar = input("Se estiver tudo certo, Digite Enter para iniciar: ")
-print(colored(f"Inicializando {texto}", "cyan"))
+print(colored(f"Inicializando {TEXTO}", "cyan"))
 sleep(2)
 
 
 def aldeia1():
     while True:
         tempo = random()
-        x = choice(lista_x)
-        y = choice(lista_y)
+        x = choice(LISTA_X)
+        y = choice(LISTA_Y)
         sleep(tempo)
         pg.click(x=x, y=y)
         print(colored("Tropas enviadas com sucesso!!", "green"))
         try:
-            if pg.locateCenterOnScreen(caminho_imagem):
+            if pg.locateCenterOnScreen(CAMINHO_IMAGEM):
                 print(
                     colored(
                         "Tropas Insufuciente, esperando o retorno pra continuar.",
@@ -85,19 +85,19 @@ def aldeia1():
 
 
 def aldeia2():
-    x = choice(lista_x)
-    y = choice(lista_y)
     pg.PAUSE = 0.5
     pg.click(x=304, y=251)
     sleep(1)
     pg.click(x=304, y=251)
     while True:
 
+        x = choice(LISTA_X)
+        y = choice(LISTA_Y)
         sleep(0.5)
         pg.click(x=x, y=y)
         print(colored("Tropas enviadas com sucesso!!", "green"))
         try:
-            if pg.locateCenterOnScreen(caminho_imagem):
+            if pg.locateCenterOnScreen(CAMINHO_IMAGEM):
                 print(
                     colored(
                         "Tropas Insufuciente, esperando o retorno pra continuar.",
