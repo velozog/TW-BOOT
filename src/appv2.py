@@ -4,52 +4,53 @@ from datetime import datetime, timedelta
 from termcolor import colored
 import colorama
 from random import random, randint
-import winsound
+import os
+
+PATH = os.path.dirname(__file__)
+print(PATH)
 
 
 colorama.init(autoreset=True)
 TEXTO = colored("TW BOOT", "green")
-CAMINHO_IMAGEM = r"C:\Users\Geziel Velozo\Documents\Sem título.png"
+CAMINHO_IMAGEM = os.path.join(PATH, "imagens/tropas_insuficiente.png")
 iniciar = input(colored("Se estiver tudo certo, Digite Enter para iniciar: ", "cyan"))
 print(colored(f"Inicializando {TEXTO}\n", "cyan"))
+
 sleep(3)
 
 
+def atualizar_pagina():
+    while True:
+        numero = random.randint(0, 100)
+        if numero == 22:
+            pg.press("f5")
+
+            return "Atualizando a pagina"
+
+
 def mandar_tropasv2():
+    path_img_1 = os.path.join(PATH, "imagens/botao_1.png")
+    path_img_2 = os.path.join(PATH, "imagens/botao_2.png")
     pg.click(x=900, y=630)
     pg.scroll(-500)
     while True:
         try:
-            img = pg.locateCenterOnScreen(image="Sem título.png")
-            img2 = pg.locateCenterOnScreen(image="Sem título2.png")
+            img = pg.locateCenterOnScreen(image=path_img_1)
+            img2 = pg.locateCenterOnScreen(image=path_img_2)
             if img:
                 sleep(0.8)
                 pg.click(img.x, img.y)
-                print("achou IMG1")
+            # print(colored(atualizar_pagina(), "green"))
             if img2:
                 sleep(0.8)
                 pg.click(img2.x, img2.y)
 
-        except:
-            print("Procurando")
+        except pg.ImageNotFoundException as err:
+            print(f"Procurando {err}")
         try:
-            if pg.locateCenterOnScreen(CAMINHO_IMAGEM):
+            if pg.locateCenterOnScreen(image=CAMINHO_IMAGEM):
                 return colored("Tropas insuficiente", "red")
 
-        except:
-            print(colored("Tropas enviadas com sucesso!!", "green"))
-
-
-def mandar_tropas():
-    while True:
-        tempo = random()
-        x = randint(952, 989)
-        y = randint(690, 708)
-        sleep(tempo)
-        pg.click(x=x, y=y)
-        try:
-            if pg.locateCenterOnScreen(CAMINHO_IMAGEM):
-                return "Tropas dessa aldeia insficiente"
         except:
             print(colored("Tropas enviadas com sucesso!!", "green"))
 
