@@ -3,7 +3,7 @@ from time import sleep
 from datetime import datetime, timedelta
 from termcolor import colored
 import colorama
-from random import random, randint
+from random import randint
 import os
 import pywhatkit as kit
 
@@ -14,10 +14,9 @@ NUMERO_TELEFONE = "+5548996341504"
 colorama.init(autoreset=True)
 TEXTO = colored("TW BOOT", "green")
 CAMINHO_IMAGEM = os.path.join(PATH, "imagens/tropas_insuficiente.png")
-iniciar = input(colored("Se estiver tudo certo, Digite Enter para iniciar: ", "cyan"))
 print(colored(f"Inicializando {TEXTO}\n", "cyan"))
 pg.PAUSE = 0.5
-sleep(3)
+
 
 
 def enviar_mensagem_whatsapp(numero, mensagem) -> bool:
@@ -53,9 +52,13 @@ def mandar_tropasv2():
             img = pg.locateCenterOnScreen(image=path_img_1)
             img2 = pg.locateCenterOnScreen(image=path_img_2)
             if img:
+                sleep(0.3)
                 pg.click(img.x, img.y)
+                print(colored("Tropas enviadas com sucesso!!", "green"))
             if img2:
+                sleep(0.3)
                 pg.click(img2.x, img2.y)
+                print(colored("Tropas enviadas com sucesso!!", "green"))
 
         except pg.ImageNotFoundException as err:
             print(f"Procurando {err}")
@@ -64,7 +67,7 @@ def mandar_tropasv2():
                 return colored("Tropas insuficiente", "red")
 
         except:
-            print(colored("Tropas enviadas com sucesso!!", "green"))
+            print(colored("Ainda tem tropas na aldeia", "green"))
 
 
 def trocar_aldeia(num_aldeia: str):
@@ -100,7 +103,7 @@ def main():
         tempo = randint(30, 40)
         msg_inicio = f"Script iniciando {data_hora_atual}"
         mensagem = f"Script funcionando corretamente, finalizado as {data_hora_atual}, {proxima_execucao(tempo)}"
-        print(colored(manda_msg(msg_inicio), "green"))
+        # print(colored(manda_msg(msg_inicio), "green"))
         print(colored(mandar_tropasv2(), "red"))
         print(colored(trocar_aldeia("2"), "yellow"))
         print(colored(mandar_tropasv2(), "red"))
@@ -110,7 +113,7 @@ def main():
         print(colored(mandar_tropasv2(), "red"))
         print(colored(trocar_aldeia("1"), "yellow"))
         print(colored(proxima_execucao(tempo), "cyan"))
-        print(colored(manda_msg(mensagem), "green"))
+        # print(colored(manda_msg(mensagem), "green"))
         print(colored(pause_tempo(tempo), "light_yellow", on_color="on_dark_grey"))
 
 
