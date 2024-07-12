@@ -1138,3 +1138,1958 @@ Time: 9:48
 Phone Number: +5548996341504
 Message: Script iniciando 27/06/2024 09:48
 --------------------
+Date: 28/6/2024
+Time: 7:1
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 07:01
+--------------------
+Date: 28/6/2024
+Time: 7:4
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 07:03, Proxima Execução 28/06/2024 07:52
+--------------------
+Date: 28/6/2024
+Time: 7:53
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 07:53
+--------------------
+Date: 28/6/2024
+Time: 7:55
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 07:54, Proxima Execução 28/06/2024 08:39
+--------------------
+Date: 28/6/2024
+Time: 8:40
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 08:40
+--------------------
+Date: 28/6/2024
+Time: 8:42
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 08:41, Proxima Execução 28/06/2024 09:31
+--------------------
+Date: 28/6/2024
+Time: 9:32
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 09:32
+--------------------
+Date: 28/6/2024
+Time: 9:34
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 09:34, Proxima Execução 28/06/2024 10:24
+--------------------
+Date: 28/6/2024
+Time: 10:25
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 10:25
+--------------------
+Date: 28/6/2024
+Time: 10:28
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 10:27, Proxima Execução 28/06/2024 11:09
+--------------------
+Date: 28/6/2024
+Time: 11:10
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 11:10
+--------------------
+Date: 28/6/2024
+Time: 11:13
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 11:13, Proxima Execução 28/06/2024 12:01
+--------------------
+Date: 28/6/2024
+Time: 12:2
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 12:01
+--------------------
+Date: 28/6/2024
+Time: 12:5
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 12:05, Proxima Execução 28/06/2024 12:52
+--------------------
+Date: 28/6/2024
+Time: 12:53
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 12:52
+--------------------
+Date: 28/6/2024
+Time: 12:56
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 12:56, Proxima Execução 28/06/2024 13:43
+--------------------
+Date: 28/6/2024
+Time: 13:44
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 13:44
+--------------------
+Date: 28/6/2024
+Time: 13:46
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 13:46, Proxima Execução 28/06/2024 14:34
+--------------------
+Date: 28/6/2024
+Time: 14:35
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 14:34
+--------------------
+Date: 28/6/2024
+Time: 14:38
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 14:38, Proxima Execução 28/06/2024 15:19
+--------------------
+Date: 28/6/2024
+Time: 15:19
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 15:19
+--------------------
+Date: 28/6/2024
+Time: 15:21
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 15:21, Proxima Execução 28/06/2024 16:01
+--------------------
+Date: 28/6/2024
+Time: 16:1
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 16:01
+--------------------
+Date: 28/6/2024
+Time: 16:4
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 16:04, Proxima Execução 28/06/2024 16:49
+--------------------
+Date: 28/6/2024
+Time: 16:49
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 16:49
+--------------------
+Date: 28/6/2024
+Time: 16:53
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 16:52, Proxima Execução 28/06/2024 17:33
+--------------------
+Date: 28/6/2024
+Time: 17:34
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 17:34
+--------------------
+Date: 28/6/2024
+Time: 17:37
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 17:37, Proxima Execução 28/06/2024 18:24
+--------------------
+Date: 28/6/2024
+Time: 18:25
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 18:24
+--------------------
+Date: 28/6/2024
+Time: 18:28
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 18:28, Proxima Execução 28/06/2024 19:08
+--------------------
+Date: 28/6/2024
+Time: 19:8
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 19:08
+--------------------
+Date: 28/6/2024
+Time: 19:11
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 19:11, Proxima Execução 28/06/2024 19:51
+--------------------
+Date: 28/6/2024
+Time: 19:52
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 19:52
+--------------------
+Date: 28/6/2024
+Time: 19:54
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 19:54, Proxima Execução 28/06/2024 20:41
+--------------------
+Date: 28/6/2024
+Time: 20:42
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 20:41
+--------------------
+Date: 28/6/2024
+Time: 20:45
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 20:45, Proxima Execução 28/06/2024 21:33
+--------------------
+Date: 28/6/2024
+Time: 21:33
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 21:33
+--------------------
+Date: 28/6/2024
+Time: 21:36
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 21:36, Proxima Execução 28/06/2024 22:23
+--------------------
+Date: 28/6/2024
+Time: 22:23
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 22:23
+--------------------
+Date: 28/6/2024
+Time: 22:27
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 22:26, Proxima Execução 28/06/2024 23:13
+--------------------
+Date: 28/6/2024
+Time: 23:14
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 23:14
+--------------------
+Date: 28/6/2024
+Time: 23:18
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 28/06/2024 23:17, Proxima Execução 28/06/2024 23:58
+--------------------
+Date: 28/6/2024
+Time: 23:59
+Phone Number: +5548996341504
+Message: Script iniciando 28/06/2024 23:59
+--------------------
+Date: 29/6/2024
+Time: 0:2
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 00:02, Proxima Execução 29/06/2024 00:52
+--------------------
+Date: 29/6/2024
+Time: 0:52
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 00:52
+--------------------
+Date: 29/6/2024
+Time: 1:19
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 01:18, Proxima Execução 29/06/2024 02:08
+--------------------
+Date: 29/6/2024
+Time: 2:9
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 02:09
+--------------------
+Date: 29/6/2024
+Time: 2:12
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 02:12, Proxima Execução 29/06/2024 02:53
+--------------------
+Date: 29/6/2024
+Time: 2:53
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 02:53
+--------------------
+Date: 29/6/2024
+Time: 2:56
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 02:56, Proxima Execução 29/06/2024 03:46
+--------------------
+Date: 29/6/2024
+Time: 3:46
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 03:46
+--------------------
+Date: 29/6/2024
+Time: 3:50
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 03:50, Proxima Execução 29/06/2024 04:31
+--------------------
+Date: 29/6/2024
+Time: 4:31
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 04:31
+--------------------
+Date: 29/6/2024
+Time: 4:34
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 04:34, Proxima Execução 29/06/2024 05:14
+--------------------
+Date: 29/6/2024
+Time: 5:15
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 05:14
+--------------------
+Date: 29/6/2024
+Time: 5:18
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 05:17, Proxima Execução 29/06/2024 05:58
+--------------------
+Date: 29/6/2024
+Time: 5:59
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 05:59
+--------------------
+Date: 29/6/2024
+Time: 6:2
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 06:02, Proxima Execução 29/06/2024 06:45
+--------------------
+Date: 29/6/2024
+Time: 6:45
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 06:45
+--------------------
+Date: 29/6/2024
+Time: 6:48
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 06:48, Proxima Execução 29/06/2024 07:35
+--------------------
+Date: 29/6/2024
+Time: 7:35
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 07:35
+--------------------
+Date: 29/6/2024
+Time: 7:39
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 07:39, Proxima Execução 29/06/2024 08:19
+--------------------
+Date: 29/6/2024
+Time: 8:19
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 08:19
+--------------------
+Date: 29/6/2024
+Time: 8:22
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 08:22, Proxima Execução 29/06/2024 09:08
+--------------------
+Date: 29/6/2024
+Time: 9:9
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 09:09
+--------------------
+Date: 29/6/2024
+Time: 9:13
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 09:13, Proxima Execução 29/06/2024 09:57
+--------------------
+Date: 29/6/2024
+Time: 9:57
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 09:57
+--------------------
+Date: 29/6/2024
+Time: 10:2
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 10:02, Proxima Execução 29/06/2024 10:42
+--------------------
+Date: 29/6/2024
+Time: 10:42
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 10:42
+--------------------
+Date: 29/6/2024
+Time: 10:47
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 10:46, Proxima Execução 29/06/2024 11:28
+--------------------
+Date: 29/6/2024
+Time: 11:29
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 11:29
+--------------------
+Date: 29/6/2024
+Time: 11:32
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 11:32, Proxima Execução 29/06/2024 12:14
+--------------------
+Date: 29/6/2024
+Time: 13:17
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 13:17
+--------------------
+Date: 29/6/2024
+Time: 13:20
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 13:20, Proxima Execução 29/06/2024 14:05
+--------------------
+Date: 29/6/2024
+Time: 14:6
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 14:06
+--------------------
+Date: 29/6/2024
+Time: 14:54
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 14:54
+--------------------
+Date: 29/6/2024
+Time: 15:0
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 15:00, Proxima Execução 29/06/2024 15:50
+--------------------
+Date: 29/6/2024
+Time: 16:0
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 16:00
+--------------------
+Date: 29/6/2024
+Time: 16:4
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 16:03, Proxima Execução 29/06/2024 16:44
+--------------------
+Date: 29/6/2024
+Time: 16:45
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 16:45
+--------------------
+Date: 29/6/2024
+Time: 16:49
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 16:49, Proxima Execução 29/06/2024 17:37
+--------------------
+Date: 29/6/2024
+Time: 17:37
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 17:37
+--------------------
+Date: 29/6/2024
+Time: 17:41
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 17:41, Proxima Execução 29/06/2024 18:31
+--------------------
+Date: 29/6/2024
+Time: 18:32
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 18:31
+--------------------
+Date: 29/6/2024
+Time: 18:36
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 18:36, Proxima Execução 29/06/2024 19:25
+--------------------
+Date: 29/6/2024
+Time: 19:44
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 19:43
+--------------------
+Date: 29/6/2024
+Time: 19:49
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 19:48, Proxima Execução 29/06/2024 20:33
+--------------------
+Date: 29/6/2024
+Time: 20:34
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 20:34
+--------------------
+Date: 29/6/2024
+Time: 20:37
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 20:36, Proxima Execução 29/06/2024 21:24
+--------------------
+Date: 29/6/2024
+Time: 21:25
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 21:25
+--------------------
+Date: 29/6/2024
+Time: 21:29
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 21:28, Proxima Execução 29/06/2024 22:13
+--------------------
+Date: 29/6/2024
+Time: 22:14
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 22:14
+--------------------
+Date: 29/6/2024
+Time: 22:18
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 22:18, Proxima Execução 29/06/2024 23:02
+--------------------
+Date: 29/6/2024
+Time: 23:2
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 23:02
+--------------------
+Date: 29/6/2024
+Time: 23:5
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 29/06/2024 23:05, Proxima Execução 29/06/2024 23:55
+--------------------
+Date: 29/6/2024
+Time: 23:56
+Phone Number: +5548996341504
+Message: Script iniciando 29/06/2024 23:55
+--------------------
+Date: 30/6/2024
+Time: 0:0
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 30/06/2024 00:00, Proxima Execução 30/06/2024 00:40
+--------------------
+Date: 30/6/2024
+Time: 0:40
+Phone Number: +5548996341504
+Message: Script iniciando 30/06/2024 00:40
+--------------------
+Date: 30/6/2024
+Time: 0:43
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 30/06/2024 00:43, Proxima Execução 30/06/2024 01:29
+--------------------
+Date: 30/6/2024
+Time: 1:29
+Phone Number: +5548996341504
+Message: Script iniciando 30/06/2024 01:29
+--------------------
+Date: 30/6/2024
+Time: 1:34
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 30/06/2024 01:34, Proxima Execução 30/06/2024 02:14
+--------------------
+Date: 30/6/2024
+Time: 2:14
+Phone Number: +5548996341504
+Message: Script iniciando 30/06/2024 02:14
+--------------------
+Date: 30/6/2024
+Time: 2:18
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 30/06/2024 02:18, Proxima Execução 30/06/2024 03:01
+--------------------
+Date: 30/6/2024
+Time: 3:1
+Phone Number: +5548996341504
+Message: Script iniciando 30/06/2024 03:01
+--------------------
+Date: 30/6/2024
+Time: 3:5
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 30/06/2024 03:05, Proxima Execução 30/06/2024 03:50
+--------------------
+Date: 30/6/2024
+Time: 3:50
+Phone Number: +5548996341504
+Message: Script iniciando 30/06/2024 03:50
+--------------------
+Date: 30/6/2024
+Time: 3:54
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 30/06/2024 03:54, Proxima Execução 30/06/2024 04:43
+--------------------
+Date: 30/6/2024
+Time: 4:43
+Phone Number: +5548996341504
+Message: Script iniciando 30/06/2024 04:43
+--------------------
+Date: 30/6/2024
+Time: 4:47
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 30/06/2024 04:47, Proxima Execução 30/06/2024 05:28
+--------------------
+Date: 30/6/2024
+Time: 5:28
+Phone Number: +5548996341504
+Message: Script iniciando 30/06/2024 05:28
+--------------------
+Date: 30/6/2024
+Time: 5:32
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 30/06/2024 05:31, Proxima Execução 30/06/2024 06:13
+--------------------
+Date: 30/6/2024
+Time: 6:14
+Phone Number: +5548996341504
+Message: Script iniciando 30/06/2024 06:14
+--------------------
+Date: 30/6/2024
+Time: 6:17
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 30/06/2024 06:17, Proxima Execução 30/06/2024 07:00
+--------------------
+Date: 30/6/2024
+Time: 7:1
+Phone Number: +5548996341504
+Message: Script iniciando 30/06/2024 07:00
+--------------------
+Date: 30/6/2024
+Time: 7:4
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 30/06/2024 07:04, Proxima Execução 30/06/2024 07:54
+--------------------
+Date: 30/6/2024
+Time: 7:54
+Phone Number: +5548996341504
+Message: Script iniciando 30/06/2024 07:54
+--------------------
+Date: 30/6/2024
+Time: 7:59
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 30/06/2024 07:58, Proxima Execução 30/06/2024 08:44
+--------------------
+Date: 30/6/2024
+Time: 9:40
+Phone Number: +5548996341504
+Message: Script iniciando 30/06/2024 09:40
+--------------------
+Date: 30/6/2024
+Time: 10:8
+Phone Number: +5548996341504
+Message: Script iniciando 30/06/2024 10:08
+--------------------
+Date: 1/7/2024
+Time: 6:30
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 01/07/2024 06:29
+--------------------
+Date: 1/7/2024
+Time: 6:33
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 01/07/2024 06:32, Proxima Execução 01/07/2024 07:13
+--------------------
+Date: 1/7/2024
+Time: 7:14
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 01/07/2024 07:14
+--------------------
+Date: 1/7/2024
+Time: 7:17
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 01/07/2024 07:17, Proxima Execução 01/07/2024 07:59
+--------------------
+Date: 1/7/2024
+Time: 8:0
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 01/07/2024 07:59
+--------------------
+Date: 1/7/2024
+Time: 8:2
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 01/07/2024 08:02, Proxima Execução 01/07/2024 08:52
+--------------------
+Date: 1/7/2024
+Time: 8:52
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 01/07/2024 08:52
+--------------------
+Date: 1/7/2024
+Time: 8:55
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 01/07/2024 08:54, Proxima Execução 01/07/2024 09:40
+--------------------
+Date: 1/7/2024
+Time: 9:41
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 01/07/2024 09:41
+--------------------
+Date: 1/7/2024
+Time: 9:45
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 01/07/2024 09:44, Proxima Execução 01/07/2024 10:29
+--------------------
+Date: 1/7/2024
+Time: 10:30
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 01/07/2024 10:30
+--------------------
+Date: 1/7/2024
+Time: 10:33
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 01/07/2024 10:33, Proxima Execução 01/07/2024 11:21
+--------------------
+Date: 1/7/2024
+Time: 11:21
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 01/07/2024 11:21
+--------------------
+Date: 1/7/2024
+Time: 11:24
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 01/07/2024 11:24, Proxima Execução 01/07/2024 12:12
+--------------------
+Date: 1/7/2024
+Time: 12:13
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 01/07/2024 12:12
+--------------------
+Date: 1/7/2024
+Time: 12:15
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 01/07/2024 12:15, Proxima Execução 01/07/2024 12:58
+--------------------
+Date: 1/7/2024
+Time: 12:59
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 01/07/2024 12:59
+--------------------
+Date: 1/7/2024
+Time: 13:2
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 01/07/2024 13:02, Proxima Execução 01/07/2024 13:44
+--------------------
+Date: 1/7/2024
+Time: 13:45
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 01/07/2024 13:44
+--------------------
+Date: 1/7/2024
+Time: 13:49
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 01/07/2024 13:49, Proxima Execução 01/07/2024 14:32
+--------------------
+Date: 1/7/2024
+Time: 14:32
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 01/07/2024 14:32
+--------------------
+Date: 1/7/2024
+Time: 14:36
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 01/07/2024 14:36, Proxima Execução 01/07/2024 15:16
+--------------------
+Date: 1/7/2024
+Time: 15:17
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 01/07/2024 15:16
+--------------------
+Date: 1/7/2024
+Time: 15:19
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 01/07/2024 15:19, Proxima Execução 01/07/2024 15:59
+--------------------
+Date: 1/7/2024
+Time: 16:0
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 01/07/2024 16:00
+--------------------
+Date: 1/7/2024
+Time: 16:3
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 01/07/2024 16:02, Proxima Execução 01/07/2024 16:52
+--------------------
+Date: 1/7/2024
+Time: 16:53
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 01/07/2024 16:53
+--------------------
+Date: 1/7/2024
+Time: 17:29
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 01/07/2024 17:29, Proxima Execução 01/07/2024 18:11
+--------------------
+Date: 1/7/2024
+Time: 18:12
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 01/07/2024 18:11
+--------------------
+Date: 1/7/2024
+Time: 18:15
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 01/07/2024 18:15, Proxima Execução 01/07/2024 19:01
+--------------------
+Date: 1/7/2024
+Time: 19:1
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 01/07/2024 19:01
+--------------------
+Date: 1/7/2024
+Time: 19:4
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 01/07/2024 19:03, Proxima Execução 01/07/2024 19:46
+--------------------
+Date: 1/7/2024
+Time: 19:47
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 01/07/2024 19:47
+--------------------
+Date: 1/7/2024
+Time: 19:50
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 01/07/2024 19:49, Proxima Execução 01/07/2024 20:38
+--------------------
+Date: 1/7/2024
+Time: 20:39
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 01/07/2024 20:39
+--------------------
+Date: 1/7/2024
+Time: 20:44
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 01/07/2024 20:44, Proxima Execução 01/07/2024 21:27
+--------------------
+Date: 2/7/2024
+Time: 7:21
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 02/07/2024 07:21
+--------------------
+Date: 2/7/2024
+Time: 7:23
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 02/07/2024 07:23, Proxima Execução 02/07/2024 08:09
+--------------------
+Date: 2/7/2024
+Time: 8:9
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 02/07/2024 08:09
+--------------------
+Date: 2/7/2024
+Time: 8:13
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 02/07/2024 08:12, Proxima Execução 02/07/2024 08:52
+--------------------
+Date: 2/7/2024
+Time: 8:53
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 02/07/2024 08:53
+--------------------
+Date: 2/7/2024
+Time: 8:56
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 02/07/2024 08:56, Proxima Execução 02/07/2024 09:41
+--------------------
+Date: 2/7/2024
+Time: 9:41
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 02/07/2024 09:41
+--------------------
+Date: 2/7/2024
+Time: 9:46
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 02/07/2024 09:46, Proxima Execução 02/07/2024 10:26
+--------------------
+Date: 2/7/2024
+Time: 10:27
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 02/07/2024 10:26
+--------------------
+Date: 2/7/2024
+Time: 10:31
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 02/07/2024 10:30, Proxima Execução 02/07/2024 11:20
+--------------------
+Date: 2/7/2024
+Time: 11:21
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 02/07/2024 11:21
+--------------------
+Date: 3/7/2024
+Time: 7:9
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 03/07/2024 07:09
+--------------------
+Date: 3/7/2024
+Time: 7:14
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 03/07/2024 07:13, Proxima Execução 03/07/2024 07:54
+--------------------
+Date: 3/7/2024
+Time: 7:55
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 03/07/2024 07:55
+--------------------
+Date: 3/7/2024
+Time: 7:58
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 03/07/2024 07:58, Proxima Execução 03/07/2024 08:47
+--------------------
+Date: 3/7/2024
+Time: 8:48
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 03/07/2024 08:47
+--------------------
+Date: 3/7/2024
+Time: 8:52
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 03/07/2024 08:51, Proxima Execução 03/07/2024 09:35
+--------------------
+Date: 3/7/2024
+Time: 9:36
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 03/07/2024 09:36
+--------------------
+Date: 3/7/2024
+Time: 9:40
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 03/07/2024 09:40, Proxima Execução 03/07/2024 10:22
+--------------------
+Date: 3/7/2024
+Time: 10:22
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 03/07/2024 10:22
+--------------------
+Date: 3/7/2024
+Time: 10:27
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 03/07/2024 10:26, Proxima Execução 03/07/2024 11:12
+--------------------
+Date: 3/7/2024
+Time: 11:13
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 03/07/2024 11:13
+--------------------
+Date: 3/7/2024
+Time: 11:17
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 03/07/2024 11:17, Proxima Execução 03/07/2024 12:01
+--------------------
+Date: 3/7/2024
+Time: 12:2
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 03/07/2024 12:01
+--------------------
+Date: 3/7/2024
+Time: 12:6
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 03/07/2024 12:06, Proxima Execução 03/07/2024 12:50
+--------------------
+Date: 3/7/2024
+Time: 12:51
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 03/07/2024 12:50
+--------------------
+Date: 3/7/2024
+Time: 12:55
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 03/07/2024 12:54, Proxima Execução 03/07/2024 13:44
+--------------------
+Date: 3/7/2024
+Time: 13:45
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 03/07/2024 13:45
+--------------------
+Date: 3/7/2024
+Time: 13:50
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 03/07/2024 13:49, Proxima Execução 03/07/2024 14:29
+--------------------
+Date: 3/7/2024
+Time: 14:30
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 03/07/2024 14:30
+--------------------
+Date: 3/7/2024
+Time: 14:35
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 03/07/2024 14:34, Proxima Execução 03/07/2024 15:20
+--------------------
+Date: 3/7/2024
+Time: 15:21
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 03/07/2024 15:21
+--------------------
+Date: 3/7/2024
+Time: 15:26
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 03/07/2024 15:25, Proxima Execução 03/07/2024 16:08
+--------------------
+Date: 3/7/2024
+Time: 16:9
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 03/07/2024 16:09
+--------------------
+Date: 3/7/2024
+Time: 17:10
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 03/07/2024 17:10, Proxima Execução 03/07/2024 17:50
+--------------------
+Date: 3/7/2024
+Time: 17:51
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 03/07/2024 17:50
+--------------------
+Date: 3/7/2024
+Time: 17:55
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 03/07/2024 17:55, Proxima Execução 03/07/2024 18:40
+--------------------
+Date: 3/7/2024
+Time: 18:41
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 03/07/2024 18:40
+--------------------
+Date: 3/7/2024
+Time: 18:44
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 03/07/2024 18:44, Proxima Execução 03/07/2024 19:27
+--------------------
+Date: 3/7/2024
+Time: 19:28
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 03/07/2024 19:27
+--------------------
+Date: 3/7/2024
+Time: 19:32
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 03/07/2024 19:31, Proxima Execução 03/07/2024 20:14
+--------------------
+Date: 3/7/2024
+Time: 20:15
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 03/07/2024 20:15
+--------------------
+Date: 3/7/2024
+Time: 20:19
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 03/07/2024 20:19, Proxima Execução 03/07/2024 21:00
+--------------------
+Date: 3/7/2024
+Time: 21:0
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 03/07/2024 21:00
+--------------------
+Date: 3/7/2024
+Time: 21:4
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 03/07/2024 21:04, Proxima Execução 03/07/2024 21:47
+--------------------
+Date: 3/7/2024
+Time: 21:48
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 03/07/2024 21:47
+--------------------
+Date: 3/7/2024
+Time: 21:52
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 03/07/2024 21:52, Proxima Execução 03/07/2024 22:35
+--------------------
+Date: 3/7/2024
+Time: 22:36
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 03/07/2024 22:35
+--------------------
+Date: 3/7/2024
+Time: 22:40
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 03/07/2024 22:40, Proxima Execução 03/07/2024 23:22
+--------------------
+Date: 3/7/2024
+Time: 23:23
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 03/07/2024 23:22
+--------------------
+Date: 3/7/2024
+Time: 23:27
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 03/07/2024 23:27, Proxima Execução 04/07/2024 00:15
+--------------------
+Date: 4/7/2024
+Time: 0:15
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 04/07/2024 00:15
+--------------------
+Date: 4/7/2024
+Time: 0:21
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 04/07/2024 00:20, Proxima Execução 04/07/2024 01:10
+--------------------
+Date: 4/7/2024
+Time: 1:11
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 04/07/2024 01:11
+--------------------
+Date: 4/7/2024
+Time: 1:15
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 04/07/2024 01:15, Proxima Execução 04/07/2024 01:55
+--------------------
+Date: 4/7/2024
+Time: 1:56
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 04/07/2024 01:55
+--------------------
+Date: 4/7/2024
+Time: 2:0
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 04/07/2024 02:00, Proxima Execução 04/07/2024 02:47
+--------------------
+Date: 4/7/2024
+Time: 2:47
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 04/07/2024 02:47
+--------------------
+Date: 4/7/2024
+Time: 5:57
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 04/07/2024 05:57, Proxima Execução 04/07/2024 06:39
+--------------------
+Date: 4/7/2024
+Time: 6:40
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 04/07/2024 06:40
+--------------------
+Date: 4/7/2024
+Time: 6:49
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 04/07/2024 06:49, Proxima Execução 04/07/2024 07:29
+--------------------
+Date: 4/7/2024
+Time: 7:29
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 04/07/2024 07:29
+--------------------
+Date: 4/7/2024
+Time: 7:32
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 04/07/2024 07:32, Proxima Execução 04/07/2024 08:17
+--------------------
+Date: 4/7/2024
+Time: 8:17
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 04/07/2024 08:17
+--------------------
+Date: 4/7/2024
+Time: 8:21
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 04/07/2024 08:21, Proxima Execução 04/07/2024 09:04
+--------------------
+Date: 4/7/2024
+Time: 9:5
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 04/07/2024 09:04
+--------------------
+Date: 4/7/2024
+Time: 9:9
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 04/07/2024 09:09, Proxima Execução 04/07/2024 09:59
+--------------------
+Date: 4/7/2024
+Time: 9:59
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 04/07/2024 09:59
+--------------------
+Date: 4/7/2024
+Time: 19:7
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 04/07/2024 19:07
+--------------------
+Date: 4/7/2024
+Time: 19:37
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado as 04/07/2024 19:36, Proxima Execução 04/07/2024 20:26
+--------------------
+Date: 5/7/2024
+Time: 7:7
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 05/07/2024 07:06
+--------------------
+Date: 5/7/2024
+Time: 7:12
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 05/07/2024 07:12, Proxima Execução 05/07/2024 07:55
+--------------------
+Date: 5/7/2024
+Time: 7:55
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 05/07/2024 07:55
+--------------------
+Date: 5/7/2024
+Time: 8:0
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 05/07/2024 07:59, Proxima Execução 05/07/2024 08:44
+--------------------
+Date: 5/7/2024
+Time: 8:45
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 05/07/2024 08:45
+--------------------
+Date: 5/7/2024
+Time: 8:48
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 05/07/2024 08:48, Proxima Execução 05/07/2024 09:30
+--------------------
+Date: 5/7/2024
+Time: 9:30
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 05/07/2024 09:30
+--------------------
+Date: 5/7/2024
+Time: 9:35
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 05/07/2024 09:35, Proxima Execução 05/07/2024 10:22
+--------------------
+Date: 5/7/2024
+Time: 10:23
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 05/07/2024 10:22
+--------------------
+Date: 5/7/2024
+Time: 10:27
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 05/07/2024 10:27, Proxima Execução 05/07/2024 11:11
+--------------------
+Date: 5/7/2024
+Time: 11:12
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 05/07/2024 11:12
+--------------------
+Date: 5/7/2024
+Time: 11:16
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 05/07/2024 11:15, Proxima Execução 05/07/2024 11:59
+--------------------
+Date: 5/7/2024
+Time: 12:0
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 05/07/2024 12:00
+--------------------
+Date: 5/7/2024
+Time: 12:5
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 05/07/2024 12:05, Proxima Execução 05/07/2024 12:54
+--------------------
+Date: 5/7/2024
+Time: 12:54
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 05/07/2024 12:54
+--------------------
+Date: 5/7/2024
+Time: 13:0
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 05/07/2024 13:00, Proxima Execução 05/07/2024 13:49
+--------------------
+Date: 5/7/2024
+Time: 13:49
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 05/07/2024 13:49
+--------------------
+Date: 5/7/2024
+Time: 13:53
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 05/07/2024 13:53, Proxima Execução 05/07/2024 14:36
+--------------------
+Date: 5/7/2024
+Time: 14:37
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 05/07/2024 14:37
+--------------------
+Date: 5/7/2024
+Time: 18:9
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 05/07/2024 18:09, Proxima Execução 05/07/2024 18:54
+--------------------
+Date: 8/7/2024
+Time: 6:39
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 08/07/2024 06:39
+--------------------
+Date: 8/7/2024
+Time: 6:41
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 08/07/2024 06:40, Proxima Execução 08/07/2024 07:03
+--------------------
+Date: 8/7/2024
+Time: 6:44
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 08/07/2024 06:44
+--------------------
+Date: 8/7/2024
+Time: 6:45
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 08/07/2024 06:45, Proxima Execução 08/07/2024 07:06
+--------------------
+Date: 8/7/2024
+Time: 7:6
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 08/07/2024 07:06
+--------------------
+Date: 8/7/2024
+Time: 7:11
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 08/07/2024 07:11, Proxima Execução 08/07/2024 07:32
+--------------------
+Date: 8/7/2024
+Time: 7:32
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 08/07/2024 07:32
+--------------------
+Date: 8/7/2024
+Time: 7:38
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 08/07/2024 07:38, Proxima Execução 08/07/2024 08:00
+--------------------
+Date: 8/7/2024
+Time: 8:0
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 08/07/2024 08:00
+--------------------
+Date: 8/7/2024
+Time: 8:5
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 08/07/2024 08:05, Proxima Execução 08/07/2024 08:27
+--------------------
+Date: 8/7/2024
+Time: 8:27
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 08/07/2024 08:27
+--------------------
+Date: 8/7/2024
+Time: 8:32
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 08/07/2024 08:32, Proxima Execução 08/07/2024 08:55
+--------------------
+Date: 8/7/2024
+Time: 8:55
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 08/07/2024 08:55
+--------------------
+Date: 8/7/2024
+Time: 21:58
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 08/07/2024 21:58
+--------------------
+Date: 8/7/2024
+Time: 21:59
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 08/07/2024 21:58, Proxima Execução 08/07/2024 22:19
+--------------------
+Date: 8/7/2024
+Time: 22:20
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 08/07/2024 22:20
+--------------------
+Date: 8/7/2024
+Time: 22:21
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 08/07/2024 22:21, Proxima Execução 08/07/2024 22:41
+--------------------
+Date: 8/7/2024
+Time: 22:41
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 08/07/2024 22:41
+--------------------
+Date: 8/7/2024
+Time: 22:43
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 08/07/2024 22:42, Proxima Execução 08/07/2024 23:04
+--------------------
+Date: 8/7/2024
+Time: 23:5
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 08/07/2024 23:05
+--------------------
+Date: 8/7/2024
+Time: 23:7
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 08/07/2024 23:06, Proxima Execução 08/07/2024 23:29
+--------------------
+Date: 8/7/2024
+Time: 23:30
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 08/07/2024 23:30
+--------------------
+Date: 8/7/2024
+Time: 23:32
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 08/07/2024 23:31, Proxima Execução 08/07/2024 23:54
+--------------------
+Date: 8/7/2024
+Time: 23:55
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 08/07/2024 23:55
+--------------------
+Date: 8/7/2024
+Time: 23:57
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 08/07/2024 23:57, Proxima Execução 09/07/2024 00:21
+--------------------
+Date: 9/7/2024
+Time: 0:22
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 09/07/2024 00:21
+--------------------
+Date: 9/7/2024
+Time: 0:24
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 09/07/2024 00:24, Proxima Execução 09/07/2024 00:49
+--------------------
+Date: 9/7/2024
+Time: 0:49
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 09/07/2024 00:49
+--------------------
+Date: 9/7/2024
+Time: 0:52
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 09/07/2024 00:51, Proxima Execução 09/07/2024 01:16
+--------------------
+Date: 9/7/2024
+Time: 1:17
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 09/07/2024 01:17
+--------------------
+Date: 9/7/2024
+Time: 1:20
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 09/07/2024 01:20, Proxima Execução 09/07/2024 01:44
+--------------------
+Date: 9/7/2024
+Time: 1:44
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 09/07/2024 01:44
+--------------------
+Date: 9/7/2024
+Time: 1:48
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 09/07/2024 01:48, Proxima Execução 09/07/2024 02:10
+--------------------
+Date: 9/7/2024
+Time: 2:10
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 09/07/2024 02:10
+--------------------
+Date: 9/7/2024
+Time: 2:14
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 09/07/2024 02:13, Proxima Execução 09/07/2024 02:38
+--------------------
+Date: 9/7/2024
+Time: 2:39
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 09/07/2024 02:39
+--------------------
+Date: 9/7/2024
+Time: 2:43
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 09/07/2024 02:43, Proxima Execução 09/07/2024 03:07
+--------------------
+Date: 9/7/2024
+Time: 3:7
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 09/07/2024 03:07
+--------------------
+Date: 9/7/2024
+Time: 3:11
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 09/07/2024 03:11, Proxima Execução 09/07/2024 03:36
+--------------------
+Date: 9/7/2024
+Time: 3:37
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 09/07/2024 03:36
+--------------------
+Date: 9/7/2024
+Time: 3:41
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 09/07/2024 03:41, Proxima Execução 09/07/2024 04:04
+--------------------
+Date: 9/7/2024
+Time: 4:5
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 09/07/2024 04:05
+--------------------
+Date: 9/7/2024
+Time: 4:9
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 09/07/2024 04:09, Proxima Execução 09/07/2024 04:30
+--------------------
+Date: 9/7/2024
+Time: 4:30
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 09/07/2024 04:30
+--------------------
+Date: 9/7/2024
+Time: 4:35
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 09/07/2024 04:34, Proxima Execução 09/07/2024 04:56
+--------------------
+Date: 9/7/2024
+Time: 4:57
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 09/07/2024 04:57
+--------------------
+Date: 9/7/2024
+Time: 5:1
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 09/07/2024 05:01, Proxima Execução 09/07/2024 05:25
+--------------------
+Date: 9/7/2024
+Time: 5:25
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 09/07/2024 05:25
+--------------------
+Date: 9/7/2024
+Time: 5:30
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 09/07/2024 05:30, Proxima Execução 09/07/2024 05:52
+--------------------
+Date: 9/7/2024
+Time: 5:52
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 09/07/2024 05:52
+--------------------
+Date: 9/7/2024
+Time: 6:12
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 09/07/2024 06:12, Proxima Execução 09/07/2024 06:33
+--------------------
+Date: 9/7/2024
+Time: 6:33
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 09/07/2024 06:33
+--------------------
+Date: 9/7/2024
+Time: 6:38
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 09/07/2024 06:38, Proxima Execução 09/07/2024 07:03
+--------------------
+Date: 9/7/2024
+Time: 7:4
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 09/07/2024 07:03
+--------------------
+Date: 9/7/2024
+Time: 7:9
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 09/07/2024 07:09, Proxima Execução 09/07/2024 07:30
+--------------------
+Date: 9/7/2024
+Time: 7:31
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 09/07/2024 07:30
+--------------------
+Date: 9/7/2024
+Time: 7:35
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 09/07/2024 07:35, Proxima Execução 09/07/2024 07:59
+--------------------
+Date: 9/7/2024
+Time: 7:59
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 09/07/2024 07:59
+--------------------
+Date: 9/7/2024
+Time: 8:5
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 09/07/2024 08:04, Proxima Execução 09/07/2024 08:28
+--------------------
+Date: 9/7/2024
+Time: 8:29
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 09/07/2024 08:29
+--------------------
+Date: 10/7/2024
+Time: 7:5
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 10/07/2024 07:05
+--------------------
+Date: 10/7/2024
+Time: 7:30
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 10/07/2024 07:30, Proxima Execução 10/07/2024 07:53
+--------------------
+Date: 10/7/2024
+Time: 7:54
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 10/07/2024 07:53
+--------------------
+Date: 10/7/2024
+Time: 7:54
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 10/07/2024 07:54, Proxima Execução 10/07/2024 08:14
+--------------------
+Date: 10/7/2024
+Time: 8:15
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 10/07/2024 08:15
+--------------------
+Date: 10/7/2024
+Time: 8:16
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 10/07/2024 08:15, Proxima Execução 10/07/2024 08:38
+--------------------
+Date: 10/7/2024
+Time: 8:39
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 10/07/2024 08:39
+--------------------
+Date: 10/7/2024
+Time: 8:40
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 10/07/2024 08:40, Proxima Execução 10/07/2024 09:03
+--------------------
+Date: 10/7/2024
+Time: 9:3
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 10/07/2024 09:03
+--------------------
+Date: 10/7/2024
+Time: 9:5
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 10/07/2024 09:04, Proxima Execução 10/07/2024 09:26
+--------------------
+Date: 10/7/2024
+Time: 9:27
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 10/07/2024 09:27
+--------------------
+Date: 10/7/2024
+Time: 9:29
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 10/07/2024 09:28, Proxima Execução 10/07/2024 09:51
+--------------------
+Date: 10/7/2024
+Time: 9:52
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 10/07/2024 09:52
+--------------------
+Date: 10/7/2024
+Time: 9:54
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 10/07/2024 09:54, Proxima Execução 10/07/2024 10:17
+--------------------
+Date: 10/7/2024
+Time: 10:17
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 10/07/2024 10:17
+--------------------
+Date: 10/7/2024
+Time: 10:20
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 10/07/2024 10:19, Proxima Execução 10/07/2024 10:39
+--------------------
+Date: 10/7/2024
+Time: 10:40
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 10/07/2024 10:40
+--------------------
+Date: 10/7/2024
+Time: 10:42
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 10/07/2024 10:42, Proxima Execução 10/07/2024 11:05
+--------------------
+Date: 10/7/2024
+Time: 11:6
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 10/07/2024 11:05
+--------------------
+Date: 10/7/2024
+Time: 11:9
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 10/07/2024 11:09, Proxima Execução 10/07/2024 11:29
+--------------------
+Date: 10/7/2024
+Time: 11:29
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 10/07/2024 11:29
+--------------------
+Date: 10/7/2024
+Time: 11:32
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 10/07/2024 11:32, Proxima Execução 10/07/2024 11:56
+--------------------
+Date: 10/7/2024
+Time: 11:57
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 10/07/2024 11:56
+--------------------
+Date: 10/7/2024
+Time: 12:1
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 10/07/2024 12:01, Proxima Execução 10/07/2024 12:26
+--------------------
+Date: 10/7/2024
+Time: 12:26
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 10/07/2024 12:26
+--------------------
+Date: 10/7/2024
+Time: 12:31
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 10/07/2024 12:31, Proxima Execução 10/07/2024 12:55
+--------------------
+Date: 10/7/2024
+Time: 12:55
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 10/07/2024 12:55
+--------------------
+Date: 10/7/2024
+Time: 13:0
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 10/07/2024 13:00, Proxima Execução 10/07/2024 13:20
+--------------------
+Date: 10/7/2024
+Time: 13:21
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 10/07/2024 13:20
+--------------------
+Date: 10/7/2024
+Time: 13:25
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 10/07/2024 13:25, Proxima Execução 10/07/2024 13:45
+--------------------
+Date: 10/7/2024
+Time: 13:46
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 10/07/2024 13:45
+--------------------
+Date: 10/7/2024
+Time: 13:50
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 10/07/2024 13:50, Proxima Execução 10/07/2024 14:10
+--------------------
+Date: 10/7/2024
+Time: 14:11
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 10/07/2024 14:10
+--------------------
+Date: 10/7/2024
+Time: 14:15
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 10/07/2024 14:15, Proxima Execução 10/07/2024 14:40
+--------------------
+Date: 10/7/2024
+Time: 14:41
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 10/07/2024 14:40
+--------------------
+Date: 10/7/2024
+Time: 14:47
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 10/07/2024 14:47, Proxima Execução 10/07/2024 15:11
+--------------------
+Date: 10/7/2024
+Time: 15:11
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 10/07/2024 15:11
+--------------------
+Date: 10/7/2024
+Time: 15:18
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 10/07/2024 15:18, Proxima Execução 10/07/2024 15:38
+--------------------
+Date: 10/7/2024
+Time: 15:38
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 10/07/2024 15:38
+--------------------
+Date: 10/7/2024
+Time: 19:44
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 10/07/2024 19:44, Proxima Execução 10/07/2024 20:07
+--------------------
+Date: 11/7/2024
+Time: 6:22
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 06:21
+--------------------
+Date: 11/7/2024
+Time: 6:51
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 06:50, Proxima Execução 11/07/2024 07:15
+--------------------
+Date: 11/7/2024
+Time: 7:5
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 07:05
+--------------------
+Date: 11/7/2024
+Time: 7:6
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 07:06, Proxima Execução 11/07/2024 07:31
+--------------------
+Date: 11/7/2024
+Time: 7:31
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 07:31
+--------------------
+Date: 11/7/2024
+Time: 7:32
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 07:32, Proxima Execução 11/07/2024 07:56
+--------------------
+Date: 11/7/2024
+Time: 7:57
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 07:56
+--------------------
+Date: 11/7/2024
+Time: 7:58
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 07:58, Proxima Execução 11/07/2024 08:22
+--------------------
+Date: 11/7/2024
+Time: 8:22
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 08:22
+--------------------
+Date: 11/7/2024
+Time: 8:24
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 08:23, Proxima Execução 11/07/2024 08:46
+--------------------
+Date: 11/7/2024
+Time: 8:47
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 08:47
+--------------------
+Date: 11/7/2024
+Time: 8:49
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 08:49, Proxima Execução 11/07/2024 09:09
+--------------------
+Date: 11/7/2024
+Time: 9:9
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 09:09
+--------------------
+Date: 11/7/2024
+Time: 9:11
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 09:11, Proxima Execução 11/07/2024 09:31
+--------------------
+Date: 11/7/2024
+Time: 9:32
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 09:31
+--------------------
+Date: 11/7/2024
+Time: 9:33
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 09:33, Proxima Execução 11/07/2024 09:54
+--------------------
+Date: 11/7/2024
+Time: 9:55
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 09:55
+--------------------
+Date: 11/7/2024
+Time: 9:57
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 09:57, Proxima Execução 11/07/2024 10:18
+--------------------
+Date: 11/7/2024
+Time: 10:18
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 10:18
+--------------------
+Date: 11/7/2024
+Time: 10:21
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 10:21, Proxima Execução 11/07/2024 10:45
+--------------------
+Date: 11/7/2024
+Time: 10:46
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 10:45
+--------------------
+Date: 11/7/2024
+Time: 10:49
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 10:48, Proxima Execução 11/07/2024 11:08
+--------------------
+Date: 11/7/2024
+Time: 11:9
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 11:09
+--------------------
+Date: 11/7/2024
+Time: 11:12
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 11:12, Proxima Execução 11/07/2024 11:37
+--------------------
+Date: 11/7/2024
+Time: 11:37
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 11:37
+--------------------
+Date: 11/7/2024
+Time: 11:41
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 11:41, Proxima Execução 11/07/2024 12:03
+--------------------
+Date: 11/7/2024
+Time: 12:3
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 12:03
+--------------------
+Date: 11/7/2024
+Time: 12:7
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 12:07, Proxima Execução 11/07/2024 12:30
+--------------------
+Date: 11/7/2024
+Time: 12:31
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 12:30
+--------------------
+Date: 11/7/2024
+Time: 12:35
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 12:34, Proxima Execução 11/07/2024 12:56
+--------------------
+Date: 11/7/2024
+Time: 12:57
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 12:57
+--------------------
+Date: 11/7/2024
+Time: 13:2
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 13:01, Proxima Execução 11/07/2024 13:22
+--------------------
+Date: 11/7/2024
+Time: 13:23
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 13:23
+--------------------
+Date: 11/7/2024
+Time: 13:27
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 13:27, Proxima Execução 11/07/2024 13:52
+--------------------
+Date: 11/7/2024
+Time: 13:52
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 13:52
+--------------------
+Date: 11/7/2024
+Time: 13:57
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 13:57, Proxima Execução 11/07/2024 14:20
+--------------------
+Date: 11/7/2024
+Time: 14:20
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 14:20
+--------------------
+Date: 11/7/2024
+Time: 14:25
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 14:25, Proxima Execução 11/07/2024 14:50
+--------------------
+Date: 11/7/2024
+Time: 14:50
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 14:50
+--------------------
+Date: 11/7/2024
+Time: 14:55
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 14:55, Proxima Execução 11/07/2024 15:17
+--------------------
+Date: 11/7/2024
+Time: 15:17
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 15:17
+--------------------
+Date: 11/7/2024
+Time: 15:22
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 15:22, Proxima Execução 11/07/2024 15:46
+--------------------
+Date: 11/7/2024
+Time: 15:46
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 15:46
+--------------------
+Date: 11/7/2024
+Time: 18:32
+Phone Number: +5548996341504
+Message: Script funcionando corretamente, finalizado em 11/07/2024 18:32, Proxima Execução 11/07/2024 18:52
+--------------------
+Date: 11/7/2024
+Time: 18:53
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 18:52
+--------------------
+Date: 11/7/2024
+Time: 19:29
+Phone Number: +5548996341504
+Message: [32mTW BOOT[0m iniciado em 11/07/2024 19:29
+--------------------
